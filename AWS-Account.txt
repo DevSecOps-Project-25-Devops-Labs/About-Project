@@ -1,0 +1,13 @@
+AWS Organizations - Key Notes
+Overview:
+
+AWS Organizations lets you combine multiple AWS accounts into one central organization for easy management.
+Account Management & Billing:
+
+Offers centralized control over accounts.
+Enables consolidated billing to meet budgeting, security, and compliance needs.
+Administrator Capabilities:
+
+Admins can:
+Create new AWS accounts under the organization.
+Invite existing AWS accounts to join the organization.
